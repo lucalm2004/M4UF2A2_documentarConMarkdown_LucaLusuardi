@@ -2,7 +2,7 @@
 
 1. ¿Qué es una página web?
 
-  Una pagina web es un conjunto de informacion (audio, texto, videos...) donde se encuentra en una dirección determinada de internet.
+   Una pagina web es un conjunto de informacion (audio, texto, videos...) donde se encuentra en una dirección   determinada de internet.
 
 2. ¿Que es una aplicación?
 
