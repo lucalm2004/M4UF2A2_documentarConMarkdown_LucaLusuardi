@@ -17,7 +17,7 @@
    Es una aplicación  (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación
 
 
-5. [Herramientas de Google:](https://www.jivochat.es/blog/herramientas/mejores-herramientas-de-google.html "entra a la url")
+5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools "entra a la url")
    
    | Aplicaciones | Visto | 
    | - | - | 
