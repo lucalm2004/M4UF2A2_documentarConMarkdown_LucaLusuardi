@@ -4,7 +4,7 @@
 
    Una pagina web es un conjunto de informacion (audio, texto, videos...) donde se encuentra en una dirección   determinada de internet.
 
-2. ¿Que es una aplicación?
+2. ¿Qué es una aplicación?
 
    Una aplicación es un programa informático diseñado como una herramienta para realizar operaciones o funciones específicas.
   
