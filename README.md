@@ -44,6 +44,4 @@
    
    </body>
    </html>
-`````
-
-![image](https://user-images.githubusercontent.com/75097605/134021274-48868d7a-0844-40cb-adb2-cb4686c8f4b3.png)
+```
